@@ -1,3 +1,3 @@
-# Calculator-android
-## андроид приложение
+# Calculator
+## java приложение
 
